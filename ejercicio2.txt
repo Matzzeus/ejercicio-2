@@ -1,0 +1,12 @@
+Algoritmo sin_titulo
+	Escribir "ingrese un numero"
+	leer n1
+	si n1  > 0 Entonces
+		x = 1
+		Mientras x<=n1 Hacer
+			Escribir x
+			x = x + 1
+			
+		FinMientras
+	FinSi
+FinAlgoritmo
